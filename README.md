@@ -12,7 +12,7 @@
 
 - 👨‍💻 This repository is only for hacktoberfest, any code that has been stolen by others isn't the responsibility of the repo owner.
 
-- 📫 How to reach me YOU CANT LOL :V
+- 📫 How to reach me YOU CANT LOL :V hehe
 
 - ⚡ I love playing strategy games, and watching intelligence anime.
 
