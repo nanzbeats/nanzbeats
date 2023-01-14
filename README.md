@@ -19,8 +19,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/kokonior/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KokoNior's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kokonior&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/nanzbeats/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nanzbeats's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nanzbeats&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
