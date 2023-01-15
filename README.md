@@ -43,6 +43,10 @@
 
 </p>
 
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/nanzbeats/nanzbeats/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nanzbeats/nanzbeats/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nanzbeats">
